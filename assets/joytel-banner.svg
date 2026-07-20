@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">JOYTEL TAIWAN</title>
+  <desc id="desc">全球連線，簡單出發。eSIM、SIM 卡與跨境行動網路服務。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102b46"/>
+      <stop offset="0.55" stop-color="#13739a"/>
+      <stop offset="1" stop-color="#63b632"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8fd345"/>
+      <stop offset="1" stop-color="#46c5e8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1032" cy="65" r="210" fill="#ffffff" opacity="0.05"/>
+  <circle cx="1105" cy="310" r="165" fill="#ffffff" opacity="0.04"/>
+
+  <g transform="translate(86 62)" fill="none" stroke="#ffffff" stroke-width="5" opacity="0.9">
+    <circle cx="118" cy="118" r="92"/>
+    <path d="M26 118h184M118 26c30 30 47 62 47 92s-17 62-47 92M118 26c-30 30-47 62-47 92s17 62 47 92M42 70h152M42 166h152" opacity="0.68"/>
+  </g>
+
+  <g transform="translate(235 184)">
+    <rect x="0" y="0" width="70" height="88" rx="13" fill="#102b46" stroke="url(#glow)" stroke-width="5"/>
+    <path d="M18 20h34M18 38h34M18 56h22" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity="0.92"/>
+  </g>
+
+  <g fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans TC', sans-serif">
+    <text x="380" y="138" font-size="56" font-weight="700" letter-spacing="2">全球連線，簡單出發</text>
+    <text x="384" y="205" font-size="27" font-weight="500" opacity="0.9">eSIM・SIM 卡・跨境行動網路服務</text>
+    <rect x="383" y="238" width="116" height="7" rx="3.5" fill="url(#glow)"/>
+    <text x="383" y="292" font-size="22" font-weight="600" letter-spacing="4" opacity="0.82">JOYTEL TAIWAN</text>
+  </g>
+</svg>
